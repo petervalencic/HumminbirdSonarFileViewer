@@ -1,6 +1,6 @@
-More modern sonars like Humminbird 998si enable saving of sonar recording for further using and research. I have developed an application in the programme language Java for control over sonar recordings which help us to get tracing in high resolutions and therefore a better overview of data that sonars offer because of their small screens.
+Modern sonars, such as the Humminbird 998si, allow for the storage of sonar recordings, facilitating their later use and analysis. I have developed a Java application that provides control over these sonar recordings. This application enhances our ability to achieve high-resolution traces, resulting in a more comprehensive data overview compared to the limitations posed by the small screens of these sonar devices.
 
-![alt text](https://s5.postimg.org/ihrs0yxvr/screenshot_3235.jpg)
+![alt text](/s1.png)
 
 
-![alt text](https://s5.postimg.org/g0g0toyjr/screenshot_3235.jpg)
+![alt text](/s2.png)
